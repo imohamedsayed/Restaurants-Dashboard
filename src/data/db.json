@@ -1,0 +1,80 @@
+{
+  "users": [
+    {
+      "name": "Mohamed El-Sayed",
+      "email": "mso2077@gmail.com",
+      "password": "123456789123",
+      "id": 1
+    },
+    {
+      "name": "Mohamed ElSayed",
+      "email": "ee123@gmail.com",
+      "password": "123456789789",
+      "id": 2
+    },
+    {
+      "name": "Mohamed ElSayed",
+      "email": "ee123@gmail.com",
+      "password": "123456789789",
+      "id": 3
+    },
+    {
+      "name": "Sayed ",
+      "email": "12wdwd@gmial.com",
+      "password": "123456789789",
+      "id": 4
+    },
+    {
+      "name": "Hassan ",
+      "email": "h@gmail.com",
+      "password": "123456789789",
+      "id": 5
+    },
+    {
+      "name": "New User",
+      "email": "newu@gmail.com",
+      "password": "1478963214789632",
+      "id": 6
+    },
+    {
+      "name": "Momo Sayed",
+      "email": "mso2087@gmail.com",
+      "password": "147896321478963214789",
+      "id": 7
+    }
+  ],
+  "rests": [
+    {
+      "name": "New user's restaurant",
+      "phone": "010151501484",
+      "address": "Giza, Haram Street",
+      "userId": 6,
+      "id": 4
+    },
+    {
+      "name": "New Restaurant",
+      "phone": "015015808484",
+      "address": "adquwibquiwf",
+      "userId": 7,
+      "id": 5
+    }
+  ],
+  "categories": [
+    {
+      "name": "Any",
+      "restId": 5,
+      "id": 1
+    }
+  ],
+  "items": [
+    {
+      "name": "meat",
+      "price": 48484,
+      "description": "felfnwoefoi",
+      "qty": 8484,
+      "catId": 1,
+      "userId": 7,
+      "id": 1
+    }
+  ]
+}
